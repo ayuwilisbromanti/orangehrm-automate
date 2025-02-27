@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UserManagement_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0197d9a7-0a0f-4c1f-aaf6-6ead35fe7ffe</testCaseGuid>
+</TestCaseEntity>

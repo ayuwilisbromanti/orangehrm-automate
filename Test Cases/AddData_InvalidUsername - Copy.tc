@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddData_InvalidUsername - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15e1287a-ea8e-4d6d-85c7-f6297115be9e</testCaseGuid>
+</TestCaseEntity>

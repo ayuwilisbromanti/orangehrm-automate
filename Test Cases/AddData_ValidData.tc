@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddData_ValidData</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c66c489-c6ad-48de-b3d5-1eaaad9a7b22</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UserManagement_ResetBtn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>16b5efeb-767b-422a-ad1f-f7f93f10a9aa</testCaseGuid>
+</TestCaseEntity>

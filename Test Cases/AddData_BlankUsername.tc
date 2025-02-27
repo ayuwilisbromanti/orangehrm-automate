@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddData_BlankUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6aba174f-98e9-4f7f-9d8a-bd6dfd8ca99f</testCaseGuid>
+</TestCaseEntity>

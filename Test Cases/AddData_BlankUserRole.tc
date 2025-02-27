@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddData_BlankUserRole</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7769ee6-cbac-4101-81f3-ba22473dba96</testCaseGuid>
+</TestCaseEntity>

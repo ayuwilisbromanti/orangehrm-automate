@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddUser_InvalidEmployeeName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ffef8902-1d99-4369-8044-11db8b425b88</testCaseGuid>
+</TestCaseEntity>
